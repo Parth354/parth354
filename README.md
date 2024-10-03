@@ -19,7 +19,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/parth354)
 
 ## 📈 GitHub Stats
-### I am want to actively contribute to the community
+### I want to actively contribute to the community
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=parth354&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
