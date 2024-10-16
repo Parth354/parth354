@@ -28,4 +28,5 @@
 - [Leetcode](https://leetcode.com/u/Parth354/)
 
 ## 👥 Visitor Count
-![Visitor Count](https://img.shields.io/badge/Visitors-0-blue)
+[![](https://visitcount.itsvg.in/api?id=parth354&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
