@@ -25,6 +25,7 @@
 - [Leetcode](https://leetcode.com/u/Parth354/)
 
 ## 👥 Visitor Count
-[![](https://visitcount.itsvg.in/api?id=parth354&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=parth354&color=blue&style=flat-square&label=Profile+Views)](https://github.com/Parth354)
+
 
 
