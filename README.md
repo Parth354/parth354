@@ -11,10 +11,7 @@
 - **Databases**: MySQL, MongoDB
 - **Tools**: Git, Google Cloud Platform, VS Code , Android Studio
 
-## 📚 Projects
-- [Property Paradise](https://propertyparadise.vercel.app/) - Property Paradise is a web application build on Next.js and MERN Stack that allow users to find and rent their property.
-- [Bajaj Sales](https://bajajsales.vercel.app/) - Bajaj Sales is an e-commerce web application build using MERN Stack.
-  
+
 ## 🦙 LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/parth354)
 
@@ -29,4 +26,5 @@
 
 ## 👥 Visitor Count
 [![](https://visitcount.itsvg.in/api?id=parth354&label=Profile%20Views&color=3&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 
